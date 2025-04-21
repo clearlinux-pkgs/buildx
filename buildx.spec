@@ -1,6 +1,6 @@
 Name     : buildx
 Version  : 0.16.1
-Release  : 3
+Release  : 4
 URL      : https://github.com/docker/buildx/archive/v0.16.1.tar.gz
 Source0  : https://github.com/docker/buildx/archive/v0.16.1.tar.gz
 Summary  : a Docker CLI plugin for extended build capabilities with BuildKit.
